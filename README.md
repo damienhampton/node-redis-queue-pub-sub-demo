@@ -19,3 +19,5 @@ cd frontend && npm i && cd -
 cd backendend && npm i && cd -
 docker-compose up
 ```
+
+Once running, go to: ```http://localhost:3001/?msg=YOUR MESSAGE HERE```
