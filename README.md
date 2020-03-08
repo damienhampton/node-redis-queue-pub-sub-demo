@@ -8,7 +8,7 @@ The pub-sub model allows listeners to be notified. The queue ensures that messag
 
 Uses Node and Redis.
 
-## Setup and running
+## Setup and running
 
 Requires:
 - Docker
