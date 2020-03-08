@@ -11,7 +11,8 @@ Uses Node and Redis.
 ## Setup and running
 
 Requires:
-- Docker
+- docker
+- docker-compose
 
 ```
 cd frontend && npm i && cd -
