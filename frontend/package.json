@@ -1,0 +1,18 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon frontend"
+  },
+  "keywords": [],
+  "author": "Damien Hampton <damien@26brains.com> (https://twitter.com/damien_hampton)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ioredis": "^4.16.0",
+    "nodemon": "^2.0.2",
+    "rsmq-promise": "^1.0.4"
+  }
+}
