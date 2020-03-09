@@ -20,4 +20,4 @@ cd backendend && npm i && cd -
 docker-compose up
 ```
 
-Once running, go to: ```http://localhost:3001/?msg=YOUR MESSAGE HERE```
+Once running, go to: ```http://localhost:3001/?msg=YOUR MESSAGE HERE``` and then view the console logs to see the pick by the backend service.
